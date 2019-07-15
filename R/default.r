@@ -4,20 +4,20 @@
 #'
 #' @docType data
 #'
-#' @usage data(StrawBerry)
+#' @usage data(berry)
 #'
 #'
 #' @keywords datasets
 #'
 #'
-#' data(StrawBerry)
+#' data(berry)
 "StrawBerry"
 berry_function <- function(seolhyang=TRUE){
   if(seolhyang==TRUE){
     print("I love seolhyang strawberry!")
   }
   else {
-    print("I am not a human.")
+    print("I love all strawberry.")
   }
 }
 

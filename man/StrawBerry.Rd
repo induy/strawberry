@@ -6,10 +6,10 @@
 \title{Seolhyang data on strawberry}
 \format{An object of class \code{data.frame} with 100 rows and 11 columns.}
 \usage{
-data(StrawBerry)
+data(berry)
 }
 \description{
 Data from docuhut
 }
-\keyword{data(StrawBerry)}
+\keyword{data(berry)}
 \keyword{datasets}
