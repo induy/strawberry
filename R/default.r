@@ -9,8 +9,6 @@
 #'
 #' @keywords datasets
 #'
-#' @source Mouse Phenome Database, <https://phenome.jax.org/projects/Moore1b>
 #'
-#' @examples
 #' data(berry)
 "berry"
