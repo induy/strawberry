@@ -4,11 +4,11 @@
 #'
 #' @docType data
 #'
-#' @usage data(berry)
+#' @usage data(StrawBerry)
 #'
 #'
 #' @keywords datasets
 #'
 #'
-#' data(berry)
-"berry"
+#' data(StrawBerry)
+"StrawBerry"
