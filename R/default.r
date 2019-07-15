@@ -4,13 +4,13 @@
 #'
 #' @docType data
 #'
-#' @usage data(StarwBerry)
+#' @usage data(StrawBerry)
 #'
 #'
 #' @keywords datasets
 #'
 #'
-#' data(StarwBerry)
+#' data(StrawBerry)
 "StrawBerry"
 berry_function <- function(seolhyang=TRUE){
   if(seolhyang==TRUE){
