@@ -1,13 +1,13 @@
 # Strwaberry Data Set
 
 
-Package: strawberry\s
-Version: 0.1\s
-Date: 2019-07-15\s
+Package: strawberry  
+Version: 0.1  
+Date: 2019-07-15  
 Title: Strwaberry Data Set
 
-Depends: R (>= 3.1.0)\s
+Depends: R (>= 3.1.0)  
 License: GPL (>= 2)
 
-URL: http://www.docuhut.com/insight\s
+URL: http://www.docuhut.com/insight  
 BugReports: project@docuhut.com
