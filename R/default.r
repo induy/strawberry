@@ -1,3 +1,16 @@
-#' Not program yet
+#' Seolhyang data on strawberry
 #'
-strawberry <-read.csv("100_berry.csv", header=TRUE) 
+#' Data from docuhut
+#'
+#' @docType data
+#'
+#' @usage data(berry)
+#'
+#'
+#' @keywords datasets
+#'
+#' @source Mouse Phenome Database, <https://phenome.jax.org/projects/Moore1b>
+#'
+#' @examples
+#' data(berry)
+"berry"
